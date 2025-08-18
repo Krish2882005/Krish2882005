@@ -8,19 +8,21 @@
 
 ### 🧠 About Me
 
-- 🎓 Currently pursuing **B.Tech. in Computer Engineering** at Shah & Anchor Kutchhi Engineering College
-- 🚀 Building scalable and efficient backend systems using Python and modern frameworks.
-- 💡 Passionate about creating robust RESTful APIs and working with complex database systems.
-- 🌌 Created **FractaVista**, a real-time fractal renderer, built using C++, OpenGL, and SDL.
+- 🎓 Currently pursuing **B.Tech. in Computer Engineering** at Shah & Anchor Kutchhi Engineering College  
+- 💻 Skilled in **C++**, **C#**, and **Python**, with experience ranging from high-performance graphics applications to scalable backend systems.  
+- 🌍 Contributed to **ScummVM**, extending the Director engine with enhancements and bug fixes while collaborating with core developers on a large open-source C++ codebase used by a global community.  
+- 🌌 Created **FractaVista**, a real-time fractal renderer, built using **C++**, OpenGL, and SDL with a modular compute-shader pipeline for high throughput.  
+- 🚀 Developed **VeloVista**, a full-stack cycling analytics platform using **Python** (FastAPI, PostgreSQL, Redis, Celery) for scalable backend processing.  
+- 🎮 Experienced in rapid prototyping and game development with **C# and Unity**, having built multiple projects during game jams.  
 
 ---
 
 ### 🔧 Tech Stack & Tools
 
 ### 💻 Languages
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=c-sharp&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=c-sharp&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
