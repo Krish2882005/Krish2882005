@@ -8,7 +8,7 @@
 
 ### 🧠 About Me
 
-- 🎓 Currently pursuing **B.Tech. in Computer Engineering** at Shah & Anchor Kutchhi Engineering College  
+- 🎓 Currently pursuing **B.Tech. in Computer Engineering** at Shah & Anchor Kutchhi Engineering College.  
 - 💻 Skilled in **C++**, **C#**, and **Python**, with experience ranging from high-performance graphics applications to scalable backend systems.  
 - 🌍 Contributed to **ScummVM**, extending the Director engine with enhancements and bug fixes while collaborating with core developers on a large open-source C++ codebase used by a global community.  
 - 🌌 Created **FractaVista**, a real-time fractal renderer, built using **C++**, OpenGL, and SDL with a modular compute-shader pipeline for high throughput.  
